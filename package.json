@@ -1,0 +1,13 @@
+{
+  "name": "fcc-imagesearch",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "Joe Roland",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "dotenv": "^4.0.0",
+    "express": "^4.15.3",
+    "mongoose": "^4.11.4"
+  }
+}
